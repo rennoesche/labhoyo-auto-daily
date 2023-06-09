@@ -6,7 +6,7 @@ Script that automatically collect rewards from hoyolab daily check in. Notificat
 
 ## Setup
 1. Go to [Google Apps Script](https://script.google.com/home/start), create a new project.
-2. Select the editor and paste the([code](https://github.com/labhoyo-auto-daily/blob/main/here/labhoyo-auto-daily.gs) ), and follow the configuration below.
+2. Select the editor and paste the( [code](https://github.com/labhoyo-auto-daily/blob/main/here/labhoyo-auto-daily.gs) ), and follow the configuration below.
 3. Select Select "main" and click the "Run" button at the top menu.  
    Grant the necessary permissions and confirm that the configuration is correct (Execution started > completed).
 4. Add new trigger from left sidebar
